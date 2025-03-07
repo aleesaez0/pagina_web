@@ -1,0 +1,35 @@
+/* Estilos para el Hero Section */
+.jumbotron {
+    background-color: #007bff !important;
+    color: white;
+}
+
+.jumbotron .display-4 {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.jumbotron .btn {
+    padding: 10px 30px;
+    font-size: 1.2rem;
+}
+
+/* Estilo de las tarjetas */
+.card {
+    border-radius: 15px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-img-top {
+    border-radius: 15px 15px 0 0;
+}
+
+/* Footer */
+footer {
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+footer p {
+    font-size: 1rem;
+}
